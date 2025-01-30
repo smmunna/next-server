@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "id": 1738165015895,
+      "name": "mks",
+      "email": "mks@example.com",
+      "age": 20,
+      "password": "password123"
+    },
+    {
+      "id": 1738165015895,
+      "name": "jbs",
+      "email": "jbs@example.com",
+      "age": 22,
+      "password": "password123"
+    },
+    {
+      "id": 1738165015892,
+      "name": "kbp",
+      "email": "kbp@example.com",
+      "age": 12,
+      "password": "password123"
+    },
+    {
+      "id": 1738170426099,
+      "name": "cat",
+      "email": "cat@example.com",
+      "age": 5,
+      "password": "pask"
+    },
+    {
+      "id": 1738213642497,
+      "name": "dog",
+      "email": "dog@example.com",
+      "age": 9,
+      "password": "scsds"
+    }
+  ],
+  "persons": [
+    {
+      "id": 1738165268410,
+      "name": "prts",
+      "email": "mks@example.com",
+      "age": 20,
+      "password": "password123"
+    },
+    {
+      "id": 1738165268410,
+      "name": "pj",
+      "email": "pj@example.com",
+      "age": 22,
+      "password": "password123"
+    }
+  ]
+}
